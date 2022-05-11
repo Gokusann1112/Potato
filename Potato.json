@@ -1,0 +1,17 @@
+{
+    "biggestPotatoProductionLands":[
+        {"name": "China", "production": 91.818e6},
+        {"name": "India", "production": 50.190e6 },
+        {"name": "Russia", "production": 22.07e6},
+        {"name": "Ukraine", "production": 20.269e6},
+        {"name": "USA", "production":19.181e6 },
+        {"name": "Germany", "production":10.602e6 },
+        {"name": "Bangladesh", "production": 9.665e6},
+        {"name": "France", "production": 8.56e6},
+        {"name": "Netherland", "production": 6.961e6},
+        {"name": "Poland", "production": 6.481e6}
+
+    ]
+
+    
+}
